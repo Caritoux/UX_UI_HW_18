@@ -1,0 +1,34 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.myself {
+  margin-top: 60px;
+}
+.rol {
+  width: 60%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.brief {
+  width: 60%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.work {
+  padding-top: 140px;
+  padding-bottom: 60px;
+  background-color: #f3f3f3;
+}
+
+.about {
+  padding-top: 140px;
+  padding-bottom: 60px;
+}
+.end {
+  background-color: black;
+  color: #f3f3f3;
+  text-align: center;
+  height: 40px;
+  width: 100%;
+}
